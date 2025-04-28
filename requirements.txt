@@ -3,3 +3,4 @@ keras-cv
 keras-hub
 matplotlib
 numpy
+pydot

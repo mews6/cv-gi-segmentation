@@ -7,3 +7,4 @@ curl -L -o ./data/gastrointestinal-bleeding-images-dataset.zip\
 cd data
 echo "Unzipping Images..."
 unzip -q gastrointestinal-bleeding-images-dataset.zip
+echo "Unzipped!"
