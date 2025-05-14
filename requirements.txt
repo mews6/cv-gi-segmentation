@@ -4,3 +4,4 @@ keras-hub
 matplotlib
 numpy
 pydot
+opencv-python
